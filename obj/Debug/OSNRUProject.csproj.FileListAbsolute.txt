@@ -1,0 +1,9 @@
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\bin\Debug\OSNRUProject.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\bin\Debug\OSNRUProject.exe
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\bin\Debug\OSNRUProject.pdb
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.Form1.resources
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.Properties.Resources.resources
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.csproj.GenerateResource.Cache
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.exe
+c:\users\adi\documents\visual studio 2013\Projects\OSNRUProject\OSNRUProject\obj\Debug\OSNRUProject.pdb
